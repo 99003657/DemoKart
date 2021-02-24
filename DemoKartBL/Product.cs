@@ -6,7 +6,28 @@ using System.Threading.Tasks;
 
 namespace DemoKartBL
 {
-    class Product
+    public class Product
     {
+        public int productId;
+        public String productName;
+        public int quantity;
+        public double price;
+        //Category categoryObj = new Category();
+
+        public Product()//string productName)
+        {
+            productId = 0;
+            productName = null;
+            quantity = 0;
+            price = 0;
+        }
+        public Product(int productId, String productName, double price, int quantity)
+        {
+            this.productId = productId;
+            this.productName = productName;
+            this.quantity = quantity;
+            this.price = price;
+        }
     }
 }
+
