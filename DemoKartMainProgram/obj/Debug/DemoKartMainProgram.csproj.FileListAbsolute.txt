@@ -28,3 +28,13 @@ C:\Users\CTEA\Desktop\Vs2019\sdger-main\Final\DemoKart-main\DemoKart-main\DemoKa
 C:\Users\CTEA\Desktop\Vs2019\sdger-main\Final\DemoKart-main\DemoKart-main\DemoKartMainProgram\obj\Debug\DemoKartMainProgram.csproj.CopyComplete
 C:\Users\CTEA\Desktop\Vs2019\sdger-main\Final\DemoKart-main\DemoKart-main\DemoKartMainProgram\obj\Debug\DemoKartMainProgram.exe
 C:\Users\CTEA\Desktop\Vs2019\sdger-main\Final\DemoKart-main\DemoKart-main\DemoKartMainProgram\obj\Debug\DemoKartMainProgram.pdb
+C:\Users\Training\Documents\GitHub\DemoKart\DemoKartMainProgram\bin\Debug\DemoKartMainProgram.exe.config
+C:\Users\Training\Documents\GitHub\DemoKart\DemoKartMainProgram\bin\Debug\DemoKartMainProgram.exe
+C:\Users\Training\Documents\GitHub\DemoKart\DemoKartMainProgram\bin\Debug\DemoKartMainProgram.pdb
+C:\Users\Training\Documents\GitHub\DemoKart\DemoKartMainProgram\bin\Debug\DemoKartBL.dll
+C:\Users\Training\Documents\GitHub\DemoKart\DemoKartMainProgram\bin\Debug\DemoKartBL.pdb
+C:\Users\Training\Documents\GitHub\DemoKart\DemoKartMainProgram\obj\Debug\DemoKartMainProgram.csprojAssemblyReference.cache
+C:\Users\Training\Documents\GitHub\DemoKart\DemoKartMainProgram\obj\Debug\DemoKartMainProgram.csproj.CoreCompileInputs.cache
+C:\Users\Training\Documents\GitHub\DemoKart\DemoKartMainProgram\obj\Debug\DemoKartMainProgram.csproj.CopyComplete
+C:\Users\Training\Documents\GitHub\DemoKart\DemoKartMainProgram\obj\Debug\DemoKartMainProgram.exe
+C:\Users\Training\Documents\GitHub\DemoKart\DemoKartMainProgram\obj\Debug\DemoKartMainProgram.pdb

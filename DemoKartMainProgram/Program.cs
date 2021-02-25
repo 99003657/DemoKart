@@ -61,11 +61,11 @@ namespace DemoKartMainProgram
             }
             for (int i = 0; i < 5; i++)
             {
-                ProductObj[0] = new Product(16, "BACARDI LEMON", 600, 5);
-                ProductObj[1] = new Product(17, "BEERA", 130, 8);
-                ProductObj[2] = new Product(18, "ROYAL SALUTE", 25000, 3);
-                ProductObj[3] = new Product(19, "JOHNNIE WALKER", 1550, 4);
-                ProductObj[4] = new Product(20, "ABSOULTE VODKA", 1300, 3);
+                ProductObj[0] = new Product(16, "Facewash ", 50, 5);
+                ProductObj[1] = new Product(17, "Lipstick", 80, 8);
+                ProductObj[2] = new Product(18, "Eye Liner", 75, 3);
+                ProductObj[3] = new Product(19, "Foundation", 90, 4);
+                ProductObj[4] = new Product(20, "Primer", 40, 3);
 
                 ProductList4.Add(ProductObj[i]);
             }
@@ -75,7 +75,7 @@ namespace DemoKartMainProgram
 
                 do
                 {
-                    Console.WriteLine("1.Electronics\t2.Grocery\t3.Clothing\t4.Beverages");
+                    Console.WriteLine("1.Electronics\t2.Grocery\t3.Clothing\t4.Cosmetics");
                     int Choice = Convert.ToInt32(Console.ReadLine());
                     if (Choice == 1)
                     {

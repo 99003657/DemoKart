@@ -16,3 +16,9 @@ C:\Users\CTEA\Desktop\Vs2019\sdger-main\Final\DemoKart-main\DemoKart-main\DemoKa
 C:\Users\CTEA\Desktop\Vs2019\sdger-main\Final\DemoKart-main\DemoKart-main\DemoKartBL\obj\Debug\DemoKartBL.csproj.CoreCompileInputs.cache
 C:\Users\CTEA\Desktop\Vs2019\sdger-main\Final\DemoKart-main\DemoKart-main\DemoKartBL\obj\Debug\DemoKartBL.dll
 C:\Users\CTEA\Desktop\Vs2019\sdger-main\Final\DemoKart-main\DemoKart-main\DemoKartBL\obj\Debug\DemoKartBL.pdb
+C:\Users\Training\Documents\GitHub\DemoKart\DemoKartBL\bin\Debug\DemoKartBL.dll
+C:\Users\Training\Documents\GitHub\DemoKart\DemoKartBL\bin\Debug\DemoKartBL.pdb
+C:\Users\Training\Documents\GitHub\DemoKart\DemoKartBL\obj\Debug\DemoKartBL.csprojAssemblyReference.cache
+C:\Users\Training\Documents\GitHub\DemoKart\DemoKartBL\obj\Debug\DemoKartBL.csproj.CoreCompileInputs.cache
+C:\Users\Training\Documents\GitHub\DemoKart\DemoKartBL\obj\Debug\DemoKartBL.dll
+C:\Users\Training\Documents\GitHub\DemoKart\DemoKartBL\obj\Debug\DemoKartBL.pdb

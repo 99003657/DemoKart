@@ -15,7 +15,7 @@ namespace DemoKartBL
 
         public int Login(String UserName, String Password)
         {
-            if (UserName == "User" && Password == "pass")
+            if (UserName == "user" && Password == "password")
             {
                 return 1;
             }
