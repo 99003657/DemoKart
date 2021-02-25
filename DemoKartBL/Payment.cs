@@ -35,7 +35,7 @@ namespace DemoKartBL
             else
             {
                 double Price = 0;
-                Price = price + (price * 0.035 );
+                Price = price + (price * 0.035);
                 return Price;
             }
         }

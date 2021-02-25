@@ -1,0 +1,10 @@
+C:\Users\LEN\Desktop\VS_2019\DemoKart-main\DemoKart-main\DemoKartBLTests2\bin\Debug\DemoKartBLTests2.dll
+C:\Users\LEN\Desktop\VS_2019\DemoKart-main\DemoKart-main\DemoKartBLTests2\bin\Debug\DemoKartBLTests2.pdb
+C:\Users\LEN\Desktop\VS_2019\DemoKart-main\DemoKart-main\DemoKartBLTests2\bin\Debug\DemoKartBL.dll
+C:\Users\LEN\Desktop\VS_2019\DemoKart-main\DemoKart-main\DemoKartBLTests2\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\LEN\Desktop\VS_2019\DemoKart-main\DemoKart-main\DemoKartBLTests2\bin\Debug\DemoKartBL.pdb
+C:\Users\LEN\Desktop\VS_2019\DemoKart-main\DemoKart-main\DemoKartBLTests2\obj\Debug\DemoKartBLTests2.csprojAssemblyReference.cache
+C:\Users\LEN\Desktop\VS_2019\DemoKart-main\DemoKart-main\DemoKartBLTests2\obj\Debug\DemoKartBLTests2.csproj.CoreCompileInputs.cache
+C:\Users\LEN\Desktop\VS_2019\DemoKart-main\DemoKart-main\DemoKartBLTests2\obj\Debug\DemoKartBLTests2.csproj.CopyComplete
+C:\Users\LEN\Desktop\VS_2019\DemoKart-main\DemoKart-main\DemoKartBLTests2\obj\Debug\DemoKartBLTests2.dll
+C:\Users\LEN\Desktop\VS_2019\DemoKart-main\DemoKart-main\DemoKartBLTests2\obj\Debug\DemoKartBLTests2.pdb
