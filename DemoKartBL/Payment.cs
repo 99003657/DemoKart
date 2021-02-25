@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace DemoKartBL
 {
-    class Payment
+    public class Payment
     {
+       
     }
 }

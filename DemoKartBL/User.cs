@@ -6,7 +6,23 @@ using System.Threading.Tasks;
 
 namespace DemoKartBL
 {
-    class User
+    public class User
     {
+        public String fName { get; set; }
+        public String lName { get; set; }
+        public int phoneNo { get; set; }
+
+        public int Login(String UserName, String Password)
+        {
+            if (UserName == "user" && Password == "password")
+            {
+                return 1;
+            }
+            else
+            {
+                return 0;
+            }
+        }
+
     }
 }
